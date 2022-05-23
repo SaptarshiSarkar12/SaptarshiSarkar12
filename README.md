@@ -23,3 +23,5 @@ I am a Software Developer and is still learning.
 ## 🛠 Skills
 Java, DSA
 
+## DevCard
+<a href="https://app.daily.dev/Saptarshi"><img src="https://github.com/SaptarshiSarkar12/SaptarshiSarkar12/blob/main/devcard.svg" width="400" alt="Saptarshi Sarkar's Dev Card"/></a>
