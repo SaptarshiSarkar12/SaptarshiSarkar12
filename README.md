@@ -5,8 +5,7 @@
 ## 🚀 About Me
 I am a Software Developer and is still learning.
 
-## DevCard
-<a href="https://app.daily.dev/Saptarshi"><img src="https://github.com/SaptarshiSarkar12/SaptarshiSarkar12/blob/main/devcard.svg" width="400" alt="Saptarshi Sarkar's Dev Card"/></a>
+
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on **DSA**
