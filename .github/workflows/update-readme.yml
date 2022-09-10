@@ -15,6 +15,4 @@ jobs:
       - uses: wow-actions/activity-report@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 10
+        
