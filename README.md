@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I am a Software Developer, an open-source enthusiast and open to collaboration.
 
+![](https://visitor-badge.laobi.icu/badge?page_id=saptarshisarkar12.saptarshisarkar12)
+
 ## [Connect with me 💬](https://bio.link/saptarshi) 
 
 ## My Contribution Graph 
@@ -14,4 +16,6 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisarkar12&theme=tokyonight" />
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=saptarshisarkar12.saptarshisarkar12)
+## Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
