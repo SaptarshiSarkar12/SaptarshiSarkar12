@@ -18,4 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#61](https://github.com/devrelcollective/awesome-devrel/pull/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+2. 💪 Opened PR [#211](https://github.com/google/copybara/pull/211) in [google/copybara](https://github.com/google/copybara)
+3. 💪 Opened PR [#48](https://github.com/reviewpad/docs/pull/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
+4. 💪 Opened PR [#526](https://github.com/localtunnel/localtunnel/pull/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+5. 💪 Opened PR [#1092](https://github.com/lapce/lapce/pull/1092) in [lapce/lapce](https://github.com/lapce/lapce)
+6. 💪 Opened PR [#286](https://github.com/bregman-arie/devops-exercises/pull/286) in [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+7. 🗣 Commented on [#256](https://github.com/civo/cli/issues/256) in [civo/cli](https://github.com/civo/cli)
+8. 🗣 Commented on [#1081](https://github.com/internetarchive/bookreader/issues/1081) in [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
+9. 🗣 Commented on [#17072](https://github.com/microsoft/playwright/issues/17072) in [microsoft/playwright](https://github.com/microsoft/playwright)
+10. 🗣 Commented on [#17072](https://github.com/microsoft/playwright/issues/17072) in [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--END_SECTION:activity-->
