@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
-2. 💪 Opened PR [#559](https://github.com/litmuschaos/litmus-go/pull/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-3. 💪 Opened PR [#6225](https://github.com/lensapp/lens/pull/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-4. 💪 Opened PR [#61](https://github.com/devrelcollective/awesome-devrel/pull/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
-5. 💪 Opened PR [#211](https://github.com/google/copybara/pull/211) in [google/copybara](https://github.com/google/copybara)
-6. 💪 Opened PR [#48](https://github.com/reviewpad/docs/pull/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
-7. 💪 Opened PR [#526](https://github.com/localtunnel/localtunnel/pull/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
-8. 💪 Opened PR [#1092](https://github.com/lapce/lapce/pull/1092) in [lapce/lapce](https://github.com/lapce/lapce)
-9. 💪 Opened PR [#286](https://github.com/bregman-arie/devops-exercises/pull/286) in [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
-10. 🗣 Commented on [#256](https://github.com/civo/cli/issues/256) in [civo/cli](https://github.com/civo/cli)
+1. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
+2. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
+3. 🗣 Commented on [#48](https://github.com/reviewpad/docs/issues/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
+4. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
+5. 💪 Opened PR [#559](https://github.com/litmuschaos/litmus-go/pull/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
+6. 💪 Opened PR [#6225](https://github.com/lensapp/lens/pull/6225) in [lensapp/lens](https://github.com/lensapp/lens)
+7. 💪 Opened PR [#61](https://github.com/devrelcollective/awesome-devrel/pull/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+8. 💪 Opened PR [#211](https://github.com/google/copybara/pull/211) in [google/copybara](https://github.com/google/copybara)
+9. 💪 Opened PR [#48](https://github.com/reviewpad/docs/pull/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
+10. 💪 Opened PR [#526](https://github.com/localtunnel/localtunnel/pull/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
 <!--END_SECTION:activity-->
