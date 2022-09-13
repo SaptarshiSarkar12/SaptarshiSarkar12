@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/dailydotdev/docs/pull/118) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 💪 Opened PR [#5](https://github.com/luciferreeves/edify/pull/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
 2. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-3. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
+3. 💪 Opened PR [#118](https://github.com/dailydotdev/docs/pull/118) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 4. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-5. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-6. 🗣 Commented on [#48](https://github.com/reviewpad/docs/issues/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
-7. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
-8. 💪 Opened PR [#559](https://github.com/litmuschaos/litmus-go/pull/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-9. 💪 Opened PR [#6225](https://github.com/lensapp/lens/pull/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-10. 💪 Opened PR [#61](https://github.com/devrelcollective/awesome-devrel/pull/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+5. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
+6. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
+7. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
+8. 🗣 Commented on [#48](https://github.com/reviewpad/docs/issues/48) in [reviewpad/docs](https://github.com/reviewpad/docs)
+9. 🗣 Commented on [#211](https://github.com/google/copybara/issues/211) in [google/copybara](https://github.com/google/copybara)
+10. 💪 Opened PR [#559](https://github.com/litmuschaos/litmus-go/pull/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
 <!--END_SECTION:activity-->
