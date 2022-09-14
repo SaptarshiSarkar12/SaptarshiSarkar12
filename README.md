@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#709](https://github.com/dailydotdev/daily/pull/709) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
-3. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
+1. 🗣 Commented on [#264](https://github.com/civo/cli/issues/264) in [civo/cli](https://github.com/civo/cli)
+2. 💪 Opened PR [#267](https://github.com/civo/cli/pull/267) in [civo/cli](https://github.com/civo/cli)
+3. 💪 Opened PR [#709](https://github.com/dailydotdev/daily/pull/709) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
 4. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
-5. 🗣 Commented on [#256](https://github.com/civo/cli/issues/256) in [civo/cli](https://github.com/civo/cli)
+5. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
 6. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
-7. 💪 Opened PR [#5](https://github.com/luciferreeves/edify/pull/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
-8. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
-9. 💪 Opened PR [#118](https://github.com/dailydotdev/docs/pull/118) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+7. 🗣 Commented on [#256](https://github.com/civo/cli/issues/256) in [civo/cli](https://github.com/civo/cli)
+8. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
+9. 💪 Opened PR [#5](https://github.com/luciferreeves/edify/pull/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
 10. 🗣 Commented on [#6225](https://github.com/lensapp/lens/issues/6225) in [lensapp/lens](https://github.com/lensapp/lens)
 <!--END_SECTION:activity-->
