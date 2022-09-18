@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/devrelcollective/awesome-devrel/issues/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
-2. 🗣 Commented on [#61](https://github.com/devrelcollective/awesome-devrel/issues/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
-3. 🗣 Commented on [#535](https://github.com/pluralsh/plural/issues/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
-4. 💪 Opened PR [#535](https://github.com/pluralsh/plural/pull/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
-5. 🗣 Commented on [#267](https://github.com/civo/cli/issues/267) in [civo/cli](https://github.com/civo/cli)
-6. 🗣 Commented on [#2342](https://github.com/pac4j/pac4j/issues/2342) in [pac4j/pac4j](https://github.com/pac4j/pac4j)
-7. 💪 Opened PR [#2342](https://github.com/pac4j/pac4j/pull/2342) in [pac4j/pac4j](https://github.com/pac4j/pac4j)
-8. 🗣 Commented on [#118](https://github.com/dailydotdev/docs/issues/118) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-9. 🗣 Commented on [#1638](https://github.com/EddieHubCommunity/LinkFree/issues/1638) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-10. 🗣 Commented on [#264](https://github.com/civo/cli/issues/264) in [civo/cli](https://github.com/civo/cli)
+1. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
+2. 🗣 Commented on [#353](https://github.com/memphisdev/memphis-broker/issues/353) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+3. 💪 Opened PR [#353](https://github.com/memphisdev/memphis-broker/pull/353) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+4. 🗣 Commented on [#61](https://github.com/devrelcollective/awesome-devrel/issues/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+5. 💪 Opened PR [#2768](https://github.com/nodejs/nodejs.dev/pull/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
+6. 🗣 Commented on [#61](https://github.com/devrelcollective/awesome-devrel/issues/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+7. 🗣 Commented on [#61](https://github.com/devrelcollective/awesome-devrel/issues/61) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+8. 🗣 Commented on [#535](https://github.com/pluralsh/plural/issues/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
+9. 💪 Opened PR [#535](https://github.com/pluralsh/plural/pull/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
+10. 🗣 Commented on [#267](https://github.com/civo/cli/issues/267) in [civo/cli](https://github.com/civo/cli)
 <!--END_SECTION:activity-->
