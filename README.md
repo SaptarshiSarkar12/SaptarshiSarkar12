@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-2. 💪 Opened PR [#1](https://github.com/mattermost/react-native-turbo-log/pull/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
-3. 🗣 Commented on [#2768](https://github.com/nodejs/nodejs.dev/issues/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
+1. ❗️ Opened issue [#1](https://github.com/SaptarshiSarkar12/Drifty/issues/1) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
+3. 💪 Opened PR [#1](https://github.com/mattermost/react-native-turbo-log/pull/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
 4. 🗣 Commented on [#2768](https://github.com/nodejs/nodejs.dev/issues/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
-5. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-6. 🗣 Commented on [#2768](https://github.com/nodejs/nodejs.dev/issues/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
-7. 🗣 Commented on [#535](https://github.com/pluralsh/plural/issues/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
-8. 🗣 Commented on [#17434](https://github.com/microsoft/playwright/issues/17434) in [microsoft/playwright](https://github.com/microsoft/playwright)
-9. 💪 Opened PR [#17434](https://github.com/microsoft/playwright/pull/17434) in [microsoft/playwright](https://github.com/microsoft/playwright)
-10. 🗣 Commented on [#5](https://github.com/luciferreeves/edify/issues/5) in [luciferreeves/edify](https://github.com/luciferreeves/edify)
+5. 🗣 Commented on [#2768](https://github.com/nodejs/nodejs.dev/issues/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
+6. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
+7. 🗣 Commented on [#2768](https://github.com/nodejs/nodejs.dev/issues/2768) in [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev)
+8. 🗣 Commented on [#535](https://github.com/pluralsh/plural/issues/535) in [pluralsh/plural](https://github.com/pluralsh/plural)
+9. 🗣 Commented on [#17434](https://github.com/microsoft/playwright/issues/17434) in [microsoft/playwright](https://github.com/microsoft/playwright)
+10. 💪 Opened PR [#17434](https://github.com/microsoft/playwright/pull/17434) in [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--END_SECTION:activity-->
