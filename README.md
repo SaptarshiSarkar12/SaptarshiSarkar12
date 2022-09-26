@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-2. 🗣 Commented on [#187](https://github.com/commclassroom/roadmaps/issues/187) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
-3. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
-4. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
-5. 💪 Opened PR [#332](https://github.com/memphisdev/memphis-ui/pull/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
-6. 🗣 Commented on [#26](https://github.com/platformatic/platformatic/issues/26) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
-7. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
-8. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
-9. 🗣 Commented on [#26](https://github.com/platformatic/platformatic/issues/26) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
-10. 💪 Opened PR [#26](https://github.com/platformatic/platformatic/pull/26) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
+1. 🗣 Commented on [#187](https://github.com/commclassroom/roadmaps/issues/187) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+2. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
+3. 🗣 Commented on [#187](https://github.com/commclassroom/roadmaps/issues/187) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+4. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
+5. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
+6. 💪 Opened PR [#332](https://github.com/memphisdev/memphis-ui/pull/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
+7. 🗣 Commented on [#26](https://github.com/platformatic/platformatic/issues/26) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
+8. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
+9. 🗣 Commented on [#559](https://github.com/litmuschaos/litmus-go/issues/559) in [litmuschaos/litmus-go](https://github.com/litmuschaos/litmus-go)
+10. 🗣 Commented on [#26](https://github.com/platformatic/platformatic/issues/26) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
 <!--END_SECTION:activity-->
