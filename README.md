@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/memphisdev/memphis-broker/issues/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
-2. ❗️ Opened issue [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#5](https://github.com/SaptarshiSarkar12/Drifty/issues/5) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 💪 Opened PR [#385](https://github.com/memphisdev/memphis-broker/pull/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
-5. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
-6. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
-7. 💪 Opened PR [#467](https://github.com/publiclab/infragram/pull/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
-8. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
-9. 💪 Opened PR [#2158](https://github.com/pulumi/pulumi-aws/pull/2158) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
-10. ❗️ Opened issue [#5](https://github.com/SaptarshiSarkar12/Drifty/issues/5) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. ❗️ Opened issue [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#385](https://github.com/memphisdev/memphis-broker/issues/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+6. ❗️ Opened issue [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#5](https://github.com/SaptarshiSarkar12/Drifty/issues/5) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 💪 Opened PR [#385](https://github.com/memphisdev/memphis-broker/pull/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+9. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
+10. 🗣 Commented on [#1](https://github.com/mattermost/react-native-turbo-log/issues/1) in [mattermost/react-native-turbo-log](https://github.com/mattermost/react-native-turbo-log)
 <!--END_SECTION:activity-->
