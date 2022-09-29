@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. ❗️ Opened issue [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#385](https://github.com/memphisdev/memphis-broker/issues/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
-7. ❗️ Opened issue [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#5](https://github.com/SaptarshiSarkar12/Drifty/issues/5) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 💪 Opened PR [#385](https://github.com/memphisdev/memphis-broker/pull/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
-10. 🗣 Commented on [#332](https://github.com/memphisdev/memphis-ui/issues/332) in [memphisdev/memphis-ui](https://github.com/memphisdev/memphis-ui)
+1. 🗣 Commented on [#385](https://github.com/memphisdev/memphis-broker/issues/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+2. 🗣 Commented on [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#8](https://github.com/SaptarshiSarkar12/Drifty/issues/8) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. ❗️ Opened issue [#7](https://github.com/SaptarshiSarkar12/Drifty/issues/7) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#385](https://github.com/memphisdev/memphis-broker/issues/385) in [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+9. ❗️ Opened issue [#6](https://github.com/SaptarshiSarkar12/Drifty/issues/6) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#5](https://github.com/SaptarshiSarkar12/Drifty/issues/5) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
