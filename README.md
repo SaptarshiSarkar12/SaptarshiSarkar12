@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/SaptarshiSarkar12/Drifty/issues/24) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#31](https://github.com/SaptarshiSarkar12/Drifty/issues/31) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#13](https://github.com/SaptarshiSarkar12/Drifty/issues/13) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#11](https://github.com/SaptarshiSarkar12/Drifty/issues/11) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#11](https://github.com/SaptarshiSarkar12/Drifty/issues/11) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#4](https://github.com/SaptarshiSarkar12/Drifty/issues/4) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. ❗️ Closed issue [#14](https://github.com/SaptarshiSarkar12/Drifty/issues/14) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. ❗️ Closed issue [#9](https://github.com/SaptarshiSarkar12/Drifty/issues/9) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🎉 Merged PR [#30](https://github.com/SaptarshiSarkar12/Drifty/pull/30) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🗣 Commented on [#30](https://github.com/SaptarshiSarkar12/Drifty/issues/30) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#31](https://github.com/SaptarshiSarkar12/Drifty/issues/31) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#32](https://github.com/SaptarshiSarkar12/Drifty/issues/32) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#24](https://github.com/SaptarshiSarkar12/Drifty/issues/24) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#24](https://github.com/SaptarshiSarkar12/Drifty/issues/24) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#31](https://github.com/SaptarshiSarkar12/Drifty/issues/31) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#13](https://github.com/SaptarshiSarkar12/Drifty/issues/13) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#11](https://github.com/SaptarshiSarkar12/Drifty/issues/11) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#11](https://github.com/SaptarshiSarkar12/Drifty/issues/11) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#4](https://github.com/SaptarshiSarkar12/Drifty/issues/4) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. ❗️ Closed issue [#14](https://github.com/SaptarshiSarkar12/Drifty/issues/14) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
