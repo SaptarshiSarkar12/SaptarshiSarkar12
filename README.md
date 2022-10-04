@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/SaptarshiSarkar12/Drifty/issues/47) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#50](https://github.com/SaptarshiSarkar12/Drifty/issues/50) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#50](https://github.com/SaptarshiSarkar12/Drifty/issues/50) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#47](https://github.com/SaptarshiSarkar12/Drifty/issues/47) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 3. 🗣 Commented on [#50](https://github.com/SaptarshiSarkar12/Drifty/issues/50) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 4. 🗣 Commented on [#50](https://github.com/SaptarshiSarkar12/Drifty/issues/50) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. ❗️ Closed issue [#26](https://github.com/SaptarshiSarkar12/Drifty/issues/26) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🎉 Merged PR [#51](https://github.com/SaptarshiSarkar12/Drifty/pull/51) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#51](https://github.com/SaptarshiSarkar12/Drifty/issues/51) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. ❌ Closed PR [#162](https://github.com/tanyagupta0201/Hacktoberfest-2022/pull/162) in [tanyagupta0201/Hacktoberfest-2022](https://github.com/tanyagupta0201/Hacktoberfest-2022)
-9. 🗣 Commented on [#49](https://github.com/SaptarshiSarkar12/Drifty/issues/49) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#50](https://github.com/SaptarshiSarkar12/Drifty/issues/50) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. ❗️ Closed issue [#26](https://github.com/SaptarshiSarkar12/Drifty/issues/26) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🎉 Merged PR [#51](https://github.com/SaptarshiSarkar12/Drifty/pull/51) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#51](https://github.com/SaptarshiSarkar12/Drifty/issues/51) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. ❌ Closed PR [#162](https://github.com/tanyagupta0201/Hacktoberfest-2022/pull/162) in [tanyagupta0201/Hacktoberfest-2022](https://github.com/tanyagupta0201/Hacktoberfest-2022)
 10. 🗣 Commented on [#49](https://github.com/SaptarshiSarkar12/Drifty/issues/49) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
