@@ -18,9 +18,9 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/SaptarshiSarkar12/Drifty/issues/91) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#92](https://github.com/SaptarshiSarkar12/Drifty/issues/92) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 2. 🗣 Commented on [#91](https://github.com/SaptarshiSarkar12/Drifty/issues/91) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#89](https://github.com/SaptarshiSarkar12/Drifty/issues/89) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#91](https://github.com/SaptarshiSarkar12/Drifty/issues/91) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 4. 🗣 Commented on [#89](https://github.com/SaptarshiSarkar12/Drifty/issues/89) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 5. 🗣 Commented on [#89](https://github.com/SaptarshiSarkar12/Drifty/issues/89) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 6. 🗣 Commented on [#89](https://github.com/SaptarshiSarkar12/Drifty/issues/89) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
