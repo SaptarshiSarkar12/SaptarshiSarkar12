@@ -20,9 +20,9 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 2. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. ❌ Reopened PR [#106](https://github.com/SaptarshiSarkar12/Drifty/pull/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. ❌ Closed PR [#106](https://github.com/SaptarshiSarkar12/Drifty/pull/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. ❌ Reopened PR [#106](https://github.com/SaptarshiSarkar12/Drifty/pull/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. ❌ Closed PR [#106](https://github.com/SaptarshiSarkar12/Drifty/pull/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 6. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 7. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 8. 🗣 Commented on [#106](https://github.com/SaptarshiSarkar12/Drifty/issues/106) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
