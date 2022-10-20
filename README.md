@@ -18,14 +18,14 @@ I am a Software Developer, an open-source enthusiast and open to collaboration.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/SaptarshiSarkar12/Drifty/issues/136) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#136](https://github.com/SaptarshiSarkar12/Drifty/issues/136) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 3. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 4. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 5. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 6. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🎉 Merged PR [#135](https://github.com/SaptarshiSarkar12/Drifty/pull/135) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#129](https://github.com/SaptarshiSarkar12/Drifty/issues/129) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🎉 Merged PR [#134](https://github.com/SaptarshiSarkar12/Drifty/pull/134) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🎉 Merged PR [#133](https://github.com/SaptarshiSarkar12/Drifty/pull/133) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#125](https://github.com/SaptarshiSarkar12/Drifty/issues/125) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🎉 Merged PR [#135](https://github.com/SaptarshiSarkar12/Drifty/pull/135) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#129](https://github.com/SaptarshiSarkar12/Drifty/issues/129) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🎉 Merged PR [#134](https://github.com/SaptarshiSarkar12/Drifty/pull/134) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
