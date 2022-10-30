@@ -1,7 +1,8 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Saptarshi Sarkar!](https://bio.link/saptarshi) 
 
 ## 🚀 About Me
-I am a Software Developer, an open-source enthusiast and open to collaboration.
+I am a Software Developer, an open-source enthusiast and open to collaboration on open-source projects. 
+I love contributing to open-source projects and enjoy maintaining an open-source project.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=saptarshisarkar12.saptarshisarkar12)
 
