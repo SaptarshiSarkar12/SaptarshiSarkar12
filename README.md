@@ -19,14 +19,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2260](https://github.com/EddieHubCommunity/LinkFree/pull/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
-3. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#2260](https://github.com/EddieHubCommunity/LinkFree/issues/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#2260](https://github.com/EddieHubCommunity/LinkFree/pull/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
 4. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#526](https://github.com/localtunnel/localtunnel/issues/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
-6. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
-7. 🗣 Commented on [#213](https://github.com/kdn251/interviews/issues/213) in [kdn251/interviews](https://github.com/kdn251/interviews)
-8. 🗣 Commented on [#188](https://github.com/SaptarshiSarkar12/Drifty/issues/188) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🗣 Commented on [#64](https://github.com/SaptarshiSarkar12/Drifty/issues/64) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#526](https://github.com/localtunnel/localtunnel/issues/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+7. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
+8. 🗣 Commented on [#213](https://github.com/kdn251/interviews/issues/213) in [kdn251/interviews](https://github.com/kdn251/interviews)
+9. 🗣 Commented on [#188](https://github.com/SaptarshiSarkar12/Drifty/issues/188) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
