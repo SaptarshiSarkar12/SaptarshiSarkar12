@@ -19,14 +19,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5082](https://github.com/EddieHubCommunity/support/issues/5082) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2260](https://github.com/EddieHubCommunity/LinkFree/issues/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#2260](https://github.com/EddieHubCommunity/LinkFree/pull/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
-5. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#526](https://github.com/localtunnel/localtunnel/issues/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
-8. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
-9. 🗣 Commented on [#213](https://github.com/kdn251/interviews/issues/213) in [kdn251/interviews](https://github.com/kdn251/interviews)
-10. 🗣 Commented on [#188](https://github.com/SaptarshiSarkar12/Drifty/issues/188) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🎉 Merged PR [#187](https://github.com/SaptarshiSarkar12/Drifty/pull/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. ❗️ Closed issue [#186](https://github.com/SaptarshiSarkar12/Drifty/issues/186) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#5082](https://github.com/EddieHubCommunity/support/issues/5082) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#2260](https://github.com/EddieHubCommunity/LinkFree/issues/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+6. 💪 Opened PR [#2260](https://github.com/EddieHubCommunity/LinkFree/pull/2260) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+7. 🗣 Commented on [#467](https://github.com/publiclab/infragram/issues/467) in [publiclab/infragram](https://github.com/publiclab/infragram)
+8. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#187](https://github.com/SaptarshiSarkar12/Drifty/issues/187) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#526](https://github.com/localtunnel/localtunnel/issues/526) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
 <!--END_SECTION:activity-->
