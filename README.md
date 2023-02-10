@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6742](https://github.com/EddieHubCommunity/support/issues/6742) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#64](https://github.com/SaptarshiSarkar12/Drifty/issues/64) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#130](https://github.com/SaptarshiSarkar12/Drifty/issues/130) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#129](https://github.com/SaptarshiSarkar12/Drifty/issues/129) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. ❌ Closed PR [#166](https://github.com/SaptarshiSarkar12/Drifty/pull/166) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#166](https://github.com/SaptarshiSarkar12/Drifty/issues/166) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#185](https://github.com/SaptarshiSarkar12/Drifty/issues/185) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. ❗️ Opened issue [#6739](https://github.com/EddieHubCommunity/support/issues/6739) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-10. 🗣 Commented on [#88](https://github.com/SaptarshiSarkar12/Drifty/issues/88) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#129](https://github.com/SaptarshiSarkar12/Drifty/issues/129) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#83](https://github.com/SaptarshiSarkar12/Drifty/issues/83) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. ❗️ Closed issue [#83](https://github.com/SaptarshiSarkar12/Drifty/issues/83) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. ❌ Closed PR [#130](https://github.com/SaptarshiSarkar12/Drifty/pull/130) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#130](https://github.com/SaptarshiSarkar12/Drifty/issues/130) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. ❗️ Opened issue [#6742](https://github.com/EddieHubCommunity/support/issues/6742) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+7. 🗣 Commented on [#64](https://github.com/SaptarshiSarkar12/Drifty/issues/64) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#130](https://github.com/SaptarshiSarkar12/Drifty/issues/130) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#129](https://github.com/SaptarshiSarkar12/Drifty/issues/129) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
