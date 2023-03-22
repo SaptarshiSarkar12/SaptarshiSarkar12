@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/apache/pdfbox/issues/160) in [apache/pdfbox](https://github.com/apache/pdfbox)
-2. 💪 Opened PR [#160](https://github.com/apache/pdfbox/pull/160) in [apache/pdfbox](https://github.com/apache/pdfbox)
-3. 🗣 Commented on [#823](https://github.com/waydroid/waydroid/issues/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
-4. 💪 Opened PR [#823](https://github.com/waydroid/waydroid/pull/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
-5. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
-6. 💪 Opened PR [#45](https://github.com/waydroid/docs/pull/45) in [waydroid/docs](https://github.com/waydroid/docs)
-7. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
+2. 🗣 Commented on [#160](https://github.com/apache/pdfbox/issues/160) in [apache/pdfbox](https://github.com/apache/pdfbox)
+3. 💪 Opened PR [#160](https://github.com/apache/pdfbox/pull/160) in [apache/pdfbox](https://github.com/apache/pdfbox)
+4. 🗣 Commented on [#823](https://github.com/waydroid/waydroid/issues/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+5. 💪 Opened PR [#823](https://github.com/waydroid/waydroid/pull/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+6. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
+7. 💪 Opened PR [#45](https://github.com/waydroid/docs/pull/45) in [waydroid/docs](https://github.com/waydroid/docs)
 8. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 9. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🗣 Commented on [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
