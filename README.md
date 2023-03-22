@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
-2. 💪 Opened PR [#45](https://github.com/waydroid/docs/pull/45) in [waydroid/docs](https://github.com/waydroid/docs)
-3. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#823](https://github.com/waydroid/waydroid/issues/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+2. 💪 Opened PR [#823](https://github.com/waydroid/waydroid/pull/823) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+3. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
+4. 💪 Opened PR [#45](https://github.com/waydroid/docs/pull/45) in [waydroid/docs](https://github.com/waydroid/docs)
 5. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. ❗️ Reopened issue [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. ❗️ Closed issue [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🎉 Merged PR [#201](https://github.com/SaptarshiSarkar12/Drifty/pull/201) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. ❗️ Reopened issue [#199](https://github.com/SaptarshiSarkar12/Drifty/issues/199) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
