@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/SaptarshiSarkar12/Drifty/issues/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#203](https://github.com/SaptarshiSarkar12/Drifty/issues/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 💪 Opened PR [#203](https://github.com/SaptarshiSarkar12/Drifty/pull/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#203](https://github.com/SaptarshiSarkar12/Drifty/issues/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#203](https://github.com/SaptarshiSarkar12/Drifty/issues/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 💪 Opened PR [#203](https://github.com/SaptarshiSarkar12/Drifty/pull/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 6. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 7. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 8. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 9. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-10. 🗣 Commented on [#45](https://github.com/waydroid/docs/issues/45) in [waydroid/docs](https://github.com/waydroid/docs)
+10. 🗣 Commented on [#5614](https://github.com/EddieHubCommunity/LinkFree/issues/5614) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
