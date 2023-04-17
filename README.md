@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+1. 🎉 Merged PR [#208](https://github.com/SaptarshiSarkar12/Drifty/pull/208) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 2. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 3. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 4. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 5. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 6. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-7. ❗️ Opened issue [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-8. 🗣 Commented on [#204](https://github.com/SaptarshiSarkar12/Drifty/issues/204) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+8. ❗️ Opened issue [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 9. 🗣 Commented on [#204](https://github.com/SaptarshiSarkar12/Drifty/issues/204) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 10. 🗣 Commented on [#204](https://github.com/SaptarshiSarkar12/Drifty/issues/204) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
