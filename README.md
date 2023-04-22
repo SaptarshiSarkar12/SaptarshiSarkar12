@@ -16,12 +16,12 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-3. 🎉 Merged PR [#209](https://github.com/SaptarshiSarkar12/Drifty/pull/209) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🎉 Merged PR [#208](https://github.com/SaptarshiSarkar12/Drifty/pull/208) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-6. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+1. ❗️ Closed issue [#4](https://github.com/SaptarshiSarkar12/Drifty/issues/4) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🎉 Merged PR [#203](https://github.com/SaptarshiSarkar12/Drifty/pull/203) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+5. 🎉 Merged PR [#209](https://github.com/SaptarshiSarkar12/Drifty/pull/209) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🎉 Merged PR [#208](https://github.com/SaptarshiSarkar12/Drifty/pull/208) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 7. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 8. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 9. 🗣 Commented on [#552](https://github.com/WeMakeDevs/wemakedevs/issues/552) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
