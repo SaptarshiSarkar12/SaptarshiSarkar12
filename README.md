@@ -8,6 +8,9 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## [Connect with me 💬](https://bio.link/saptarshi) 
 
+## My Contribution graph 📈
+![Saptarshi Sarkar's contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=SaptarshiSarkar12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
+
 ## 📈 My Stats
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saptarshisarkar12&show_icons=true&theme=tokyonight" />
