@@ -16,10 +16,10 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 💪 Opened PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🎉 Merged PR [#211](https://github.com/SaptarshiSarkar12/Drifty/pull/211) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 💪 Opened PR [#7504](https://github.com/EddieHubCommunity/LinkFree/pull/7504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 💪 Opened PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 5. ❗️ Closed issue [#196](https://github.com/SaptarshiSarkar12/Drifty/issues/196) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 6. 🎉 Merged PR [#204](https://github.com/SaptarshiSarkar12/Drifty/pull/204) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 7. 🗣 Commented on [#204](https://github.com/SaptarshiSarkar12/Drifty/issues/204) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
