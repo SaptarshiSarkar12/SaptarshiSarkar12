@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
-2. 🗣 Commented on [#7526](https://github.com/EddieHubCommunity/LinkFree/issues/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#7525](https://github.com/EddieHubCommunity/LinkFree/issues/7525) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#7526](https://github.com/EddieHubCommunity/LinkFree/issues/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 💪 Opened PR [#7526](https://github.com/EddieHubCommunity/LinkFree/pull/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-6. 🗣 Commented on [#7504](https://github.com/EddieHubCommunity/LinkFree/issues/7504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-7. 💪 Opened PR [#7504](https://github.com/EddieHubCommunity/LinkFree/pull/7504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-8. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-9. 🎉 Merged PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 💪 Opened PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. ❗ Opened issue [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
+3. 🗣 Commented on [#7526](https://github.com/EddieHubCommunity/LinkFree/issues/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#7525](https://github.com/EddieHubCommunity/LinkFree/issues/7525) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#7526](https://github.com/EddieHubCommunity/LinkFree/issues/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+6. 💪 Opened PR [#7526](https://github.com/EddieHubCommunity/LinkFree/pull/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+7. 🗣 Commented on [#7504](https://github.com/EddieHubCommunity/LinkFree/issues/7504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+8. 💪 Opened PR [#7504](https://github.com/EddieHubCommunity/LinkFree/pull/7504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+9. 🗣 Commented on [#91](https://github.com/jamesgeorge007/github-activity-readme/issues/91) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+10. 🎉 Merged PR [#212](https://github.com/SaptarshiSarkar12/Drifty/pull/212) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
