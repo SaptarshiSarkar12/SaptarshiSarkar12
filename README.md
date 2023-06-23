@@ -21,9 +21,9 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 3. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 4. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 5. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 7. 🗣 Commented on [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 8. 🗣 Commented on [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. ❗ Opened issue [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
-10. 🗣 Commented on [#7526](https://github.com/EddieHubCommunity/LinkFree/issues/7526) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+9. 🗣 Commented on [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. ❗ Opened issue [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
 <!--END_SECTION:activity-->
