@@ -16,14 +16,14 @@ I love contributing to open-source projects and enjoy maintaining an open-source
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🎉 Merged PR [#214](https://github.com/SaptarshiSarkar12/Drifty/pull/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#342](https://github.com/fvarrui/JavaPackager/issues/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-5. 🗣 Commented on [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
-6. 💪 Opened PR [#194](https://github.com/gitpod-io/contribute.dev/pull/194) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
-7. 🗣 Commented on [#342](https://github.com/fvarrui/JavaPackager/issues/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-8. 💪 Opened PR [#342](https://github.com/fvarrui/JavaPackager/pull/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-9. 🗣 Commented on [#216](https://github.com/SaptarshiSarkar12/Drifty/issues/216) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. ❌ Closed PR [#219](https://github.com/SaptarshiSarkar12/Drifty/pull/219) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#194](https://github.com/gitpod-io/contribute.dev/issues/194) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
+2. 🔒 Closed issue [#213](https://github.com/SaptarshiSarkar12/Drifty/issues/213) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🎉 Merged PR [#214](https://github.com/SaptarshiSarkar12/Drifty/pull/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#214](https://github.com/SaptarshiSarkar12/Drifty/issues/214) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#342](https://github.com/fvarrui/JavaPackager/issues/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+6. 🗣 Commented on [#193](https://github.com/gitpod-io/contribute.dev/issues/193) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
+7. 💪 Opened PR [#194](https://github.com/gitpod-io/contribute.dev/pull/194) in [gitpod-io/contribute.dev](https://github.com/gitpod-io/contribute.dev)
+8. 🗣 Commented on [#342](https://github.com/fvarrui/JavaPackager/issues/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+9. 💪 Opened PR [#342](https://github.com/fvarrui/JavaPackager/pull/342) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+10. 🗣 Commented on [#216](https://github.com/SaptarshiSarkar12/Drifty/issues/216) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
