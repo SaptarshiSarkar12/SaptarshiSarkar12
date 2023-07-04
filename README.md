@@ -4,7 +4,7 @@
 I am a Software Developer, an open-source enthusiast and open to collaboration on open-source projects. 
 I love contributing to open-source projects and enjoy maintaining an open-source project.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=saptarshisarkar12.saptarshisarkar12)
+![Number Of GitHub Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=saptarshisarkar12.saptarshisarkar12)
 
 ## [Connect with me 💬](https://bio.link/saptarshi) 
 
@@ -14,7 +14,11 @@ I love contributing to open-source projects and enjoy maintaining an open-source
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisarkar12&theme=tokyonight" />
 </p>
 
-## Recent Activity :zap:
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+## Recent Activity ⚡
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 2. 🔒 Closed issue [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
