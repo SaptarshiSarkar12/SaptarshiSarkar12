@@ -34,14 +34,4 @@ Wh... </p> <br/> <br/>
 
 ## Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🔒 Closed issue [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🔒 Closed issue [#84](https://github.com/SaptarshiSarkar12/Drifty/issues/84) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#84](https://github.com/SaptarshiSarkar12/Drifty/issues/84) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🔒 Closed issue [#88](https://github.com/SaptarshiSarkar12/Drifty/issues/88) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#88](https://github.com/SaptarshiSarkar12/Drifty/issues/88) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🗣 Commented on [#218](https://github.com/SaptarshiSarkar12/Drifty/issues/218) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🗣 Commented on [#218](https://github.com/SaptarshiSarkar12/Drifty/issues/218) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
