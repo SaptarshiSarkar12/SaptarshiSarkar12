@@ -34,4 +34,9 @@ Wh... </p> <br/> <br/>
 
 ## Recent Activity ⚡
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🔒 Closed issue [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#174](https://github.com/SaptarshiSarkar12/Drifty/issues/174) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🔒 Closed issue [#84](https://github.com/SaptarshiSarkar12/Drifty/issues/84) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#84](https://github.com/SaptarshiSarkar12/Drifty/issues/84) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
