@@ -34,9 +34,9 @@ Wh... </p> <br/> <br/>
 
 ## Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#344](https://github.com/fvarrui/JavaPackager/issues/344) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-2. 🗣 Commented on [#344](https://github.com/fvarrui/JavaPackager/issues/344) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-3. 🔒 Closed issue [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🎉 Merged PR [#221](https://github.com/SaptarshiSarkar12/Drifty/pull/221) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#345](https://github.com/fvarrui/JavaPackager/issues/345) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+2. ❗ Opened issue [#345](https://github.com/fvarrui/JavaPackager/issues/345) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+3. 🗣 Commented on [#344](https://github.com/fvarrui/JavaPackager/issues/344) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+4. 🗣 Commented on [#344](https://github.com/fvarrui/JavaPackager/issues/344) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+5. 🔒 Closed issue [#220](https://github.com/SaptarshiSarkar12/Drifty/issues/220) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
