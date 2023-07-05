@@ -34,9 +34,9 @@ Wh... </p> <br/> <br/>
 
 ## Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#216](https://github.com/SaptarshiSarkar12/Drifty/issues/216) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-2. 🗣 Commented on [#217](https://github.com/SaptarshiSarkar12/Drifty/issues/217) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#218](https://github.com/SaptarshiSarkar12/Drifty/issues/218) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#345](https://github.com/fvarrui/JavaPackager/issues/345) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
-5. ❗ Opened issue [#345](https://github.com/fvarrui/JavaPackager/issues/345) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
+1. 🗣 Commented on [#217](https://github.com/SaptarshiSarkar12/Drifty/issues/217) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#216](https://github.com/SaptarshiSarkar12/Drifty/issues/216) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+3. 🗣 Commented on [#217](https://github.com/SaptarshiSarkar12/Drifty/issues/217) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#218](https://github.com/SaptarshiSarkar12/Drifty/issues/218) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#345](https://github.com/fvarrui/JavaPackager/issues/345) in [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager)
 <!--END_SECTION:activity-->
