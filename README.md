@@ -1,9 +1,8 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Saptarshi Sarkar!](https://bio.link/saptarshi) Great to see you here!
 
-I am a Saptarshi Sarkar, an **open-source enthusiast** and always open to collaboration on open-source projects and new ideas. 
-I love contributing to open-source projects and enjoy maintaining an open-source project.
-I am a **Java Developer** with experience in building Open-Source projects.
-Feel free to connect with me: **https://bio.link/saptarshi**
+I am a Saptarshi Sarkar, an **open-source enthusiast** and always open to collaboration on open-source projects and new ideas. I love contributing to **_Open-Source projects_** and also enjoy maintaining them. 
+I am a **Java Developer** with experience in building **_Open-Source projects_** like [**`Drifty`**](https://github.com/SaptarshiSarkar12/Drifty).
+Feel free to connect with me : **https://bio.link/saptarshi**
 
 [![LinkedIn Profile Badge](https://img.shields.io/badge/-saptarshisarkar12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saptarshisarkar12/)](https://www.linkedin.com/in/saptarshisarkar12/)
 [![Hashnode Blog](https://img.shields.io/badge/-@SaptarshiSarkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://saptarshisarkar.hashnode.dev/)](https://saptarshisarkar.hashnode.dev/)
