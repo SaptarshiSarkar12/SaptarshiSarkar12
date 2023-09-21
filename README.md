@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Saptarshi Sarkar!](https://bio.link/saptarshi) Great to see you here!
+# Hi 👋, I'm [Saptarshi Sarkar!](https://bio.link/saptarshi) Great to see you here!
 
 I am a Saptarshi Sarkar, an **open-source enthusiast** and always open to collaboration on open-source projects and new ideas. I love contributing to **_Open-Source projects_** and also enjoy maintaining them. 
 I am a **Java Developer** with experience in building **_Open-Source projects_** like [**`Drifty`**](https://github.com/SaptarshiSarkar12/Drifty).
