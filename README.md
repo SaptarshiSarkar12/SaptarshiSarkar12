@@ -31,6 +31,6 @@ Feel free to connect with me : **https://bio.link/saptarshi**
 
 ## 📈 My Stats
 <p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saptarshisarkar12&show_icons=true&theme=tokyonight&show=reviews" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisarkar12&theme=tokyonight" />
+  <img width="48%" src="https://ghrst.vercel.app/api?username=saptarshisarkar12&show_icons=true&theme=tokyonight&show=reviews" />
+  <img width="48%" src="https://ghrstreak.vercel.app/?user=saptarshisarkar12&theme=tokyonight" />
 </p>
